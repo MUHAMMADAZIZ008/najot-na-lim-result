@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+.wrap_text {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+.title {
+    font-size: 36px;
+    font-weight: 600;
+}
+.text_info {
+    width: 410px;
+    color: #95A1BB;
+    text-align: end;
+}
+.box_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.boxs {
+    width: 220px;
+    height: 220px;
+    background-color: #95A1BB;
+}

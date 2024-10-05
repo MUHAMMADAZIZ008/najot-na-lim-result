@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .container {
+      width: 1000px;
+      /* height: 800px; */
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 200px 200px;
+      /* grid-template-columns: 200px 200px; */
+      gap: 10px;
+      margin: 0 auto;
+    }
+
+    .item1 {
+      background-color: lightblue;
+    }
+
+    .item2 {
+      background-color: lightcoral;
+    }
+
+    .item3 {
+      background-color: lightgreen;
+    }
+
+    .item4 {
+      background-color: lightpink;
+      /* grid-column: 1 / 4; 1-ustundan 4-ustungacha */
+    }
+    .container div{
+        background-color: rgb(102, 155, 202);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="item1">Item 1</div>
+    <div class="item2">Item 2</div>
+    <div class="item3">Item 3</div>
+    <div class="item4">Item 4</div>
+    <div class="item5">Item 5</div>
+    <div class="item6">Item 6</div>
+    <div class="item7">Item 7</div>
+    <div class="item8">Item 8</div>
+  </div>
+</body>
+</html>

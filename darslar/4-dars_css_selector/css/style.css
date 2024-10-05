@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    color: #b038a0;
+}
+div {
+    /* margin: 0 auto; */
+    text-align: center;
+}
+.box1 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+#box2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}

@@ -1,0 +1,122 @@
+* {
+    font-family: sans-serif;
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+header {
+    margin-bottom: 20px;
+    padding: 20px 0; 
+    background-color: #070748;
+}
+.header_inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_title {
+    color: #fff;
+    font-size: 35px;
+}
+.nav_bar ul {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav_item {
+    list-style-type: none;
+    /* margin-left: 30px; */
+}
+.nav_bar  button {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+}
+.btn_1 {
+    background-color: #3a7db8;
+    border-radius: 5px 0 0 5px;
+}
+.btn_2 {
+    background-color: green;
+}
+.btn_3 {
+    background-color: orange;
+}
+.btn_4 {
+    background-color: red;
+    border-radius: 0 5px 5px 0;
+}
+
+table {
+    width: 100%;
+    margin: 0 auto;
+    /* background-color: #3a7db8; */
+    border-collapse: collapse;
+}
+thead tr {
+    align-items: center;
+}
+tr {
+    border-bottom: 2px solid gray;
+}
+
+.th_tag {
+    margin-bottom: 10px;
+    color: #05105c;
+    font-size: 20px;
+}
+.id p{
+    font-size: 18px;
+    color: #05105c;
+    text-align: center;
+}
+.link a{
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+.date p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.btn_box button {
+    padding: 10px 20px;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+}
+.active {
+    background-color: green;
+}
+.inc {
+    background-color: orange;
+}
+.exp {
+    background-color: red;
+}
+.location p {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+.Action button {
+    display: block;
+    padding: 10px 30px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: #0c136b;
+    font-size: 18px;
+}
