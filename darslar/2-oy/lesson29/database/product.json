@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "qalam"
+    },
+    {
+        "id": 2,
+        "name": "qalam",
+        "price": 111
+    },
+    {
+        "id": 3,
+        "name": "daftar",
+        "price": 1177
+    },
+    {
+        "id": 4,
+        "name": "ruchka",
+        "price": 1177
+    },
+    {
+        "id": 5,
+        "name": "ruchka",
+        "price": 1177
+    },
+    {
+        "id": 6,
+        "name": "ruchka",
+        "price": 1177
+    },
+    {
+        "id": 7,
+        "name": "ruchka",
+        "price": 1177
+    }
+]

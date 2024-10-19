@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/main.css">
+    <title>Login</title>
+</head>
+<body>
+    <div class="container">
+        <form class="loginForm">
+            <div class="login-form__box">
+                <label for="username">Username</label>
+                <input type="text" id="username" name="username" placeholder="Enter your username">
+            </div>
+
+            <div class="login-form__box">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" placeholder="Enter your password">
+            </div>
+            <button type="submit" class="sub-btn">Send</button>
+        </form>
+    </div>
+
+
+    <script>
+        const ulr = "http://localhost:3636/users"
+        const form = document.querySelector(".loginForm")
+        const usernameInput = document.querySelector("#username")
+        const passwordInput = document.querySelector("#password")
+        form.addEventListener("submit", async(e) =>{
+            e.preventDefault()
+            let users = {
+                users : usernameInput.value,
+                password : passwordInput.value
+            }
+            // console.log(users);
+
+            try {
+                let res = await fetch("http://localhost:3001/users", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(users)
+                });
+
+                if (!res.ok) {
+                    throw new Error(`Serverda xatolik: ${res.status}`);
+                }
+
+                // let data = await res.json();
+                console.log(res); 
+            } catch (error) {
+                console.error('Xatolik yuz berdi:', error);
+            }
+        })
+    </script>
+</body>
+</html>
