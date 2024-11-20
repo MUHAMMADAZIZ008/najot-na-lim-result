@@ -1,0 +1,5 @@
+[31m{"level":"error","message":"this is an error message","timestamp":"2024-11-13T09:53:01.893Z"}[39m
+[33m{"level":"warn","message":"this is a warning message","timestamp":"2024-11-13T09:53:01.895Z"}[39m
+[32m{"level":"info","message":"this is an info message","timestamp":"2024-11-13T09:53:01.895Z"}[39m
+[34m{"level":"debug","message":"this is an debug message","timestamp":"2024-11-13T09:53:01.895Z"}[39m
+[35m{"level":"silly","message":"this is an silly message","timestamp":"2024-11-13T09:53:01.895Z"}[39m

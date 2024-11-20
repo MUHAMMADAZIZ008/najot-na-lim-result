@@ -1,0 +1,278 @@
+[32m2024-11-13T12:45:12.025Z info: Info log[39m
+[32m2024-11-13T12:45:27.932Z info: Info log[39m
+[32m2024-11-13T12:45:39.065Z info: Info log[39m
+[32m2024-11-13T12:45:56.844Z info: Info log[39m
+2024-11-13T12:46:17.582Z info: Info log
+2024-11-13T12:46:23.018Z info: Info log
+2024-11-13T12:46:31.914Z info: Info log
+2024-11-13T12:49:58.374Z info: Info log
+2024-11-13T12:50:27.264Z info: Info log
+2024-11-13T12:50:29.040Z info: Info log
+2024-11-13T12:50:30.776Z info: Info log
+2024-11-13T12:50:32.202Z info: Info log
+2024-11-13T12:50:33.315Z info: Info log
+2024-11-13T12:50:35.797Z info: Info log
+2024-11-13T12:50:40.340Z info: Info log
+2024-11-13T12:50:48.483Z info: Info log
+2024-11-13T12:52:09.387Z info: Info log
+2024-11-13T12:52:52.151Z info: Info log
+2024-11-13T12:53:53.409Z info: Info log
+2024-11-13T12:54:01.985Z info: Info log
+2024-11-13T12:54:11.422Z info: Info log
+2024-11-13T12:54:12.429Z info: Info log
+2024-11-13T12:54:15.044Z info: Info log
+2024-11-13T12:54:17.073Z info: Info log
+2024-11-13T12:54:21.029Z info: Info log
+2024-11-13T12:54:24.907Z info: Info log
+2024-11-13T12:54:25.933Z info: Info log
+2024-11-13T12:54:29.778Z info: Info log
+2024-11-13T12:54:32.085Z info: Info log
+2024-11-13T12:54:33.646Z info: Info log
+2024-11-13T12:54:45.961Z info: Info log
+2024-11-13T12:54:47.673Z info: Info log
+2024-11-13T12:54:50.185Z info: Info log
+2024-11-13T12:54:55.986Z info: Info log
+2024-11-13T12:55:02.109Z info: Info log
+2024-11-13T12:55:04.215Z info: Info log
+2024-11-13T12:55:12.980Z info: Info log
+2024-11-13T12:55:15.999Z info: Info log
+2024-11-13T12:55:23.695Z info: Info log
+2024-11-13T12:55:32.850Z info: Info log
+2024-11-13T12:55:48.412Z info: Info log
+2024-11-13T12:58:44.200Z info: Info log
+2024-11-13T12:58:46.059Z info: Info log
+2024-11-13T12:58:54.197Z info: Connecting to DB
+2024-11-13T12:58:56.378Z info: Connecting to DB
+2024-11-13T12:58:58.063Z info: Connecting to DB
+2024-11-13T12:59:00.589Z info: Connecting to DB
+2024-11-13T12:59:00.590Z info: Connecting to DB
+2024-11-13T12:59:03.463Z info: Connecting to DB
+2024-11-13T12:59:03.464Z info: 
+2024-11-13T12:59:15.709Z info: Connecting to DB
+2024-11-13T12:59:15.710Z info: Project is running on port:" + port
+2024-11-13T12:59:24.480Z info: Connecting to DB
+2024-11-13T12:59:24.481Z info: Project is running on port:" + 3000
+2024-11-13T12:59:27.389Z info: Connecting to DB
+2024-11-13T12:59:27.390Z info: Project is running on port: 3000
+2024-11-13T12:59:32.565Z info: Connecting to DB
+2024-11-13T12:59:32.566Z info: Project is running on port: 3000
+2024-11-13T12:59:33.673Z info: Connecting to DB
+2024-11-13T12:59:33.674Z info: Project is running on port: 3000
+2024-11-13T12:59:45.974Z info: Connecting to DB
+2024-11-13T12:59:45.975Z info: Project is running on port: 3000
+2024-11-13T12:59:46.962Z info: Connecting to DB
+2024-11-13T12:59:46.964Z info: Project is running on port: 3000
+2024-11-13T12:59:48.287Z info: Connecting to DB
+2024-11-13T12:59:48.288Z info: Project is running on port: 3000
+2024-11-13T12:59:50.529Z info: Connecting to DB
+2024-11-13T12:59:50.530Z info: Project is running on port: 3000
+2024-11-13T12:59:55.584Z info: Connecting to DB
+2024-11-13T12:59:55.585Z info: Project is running on port: 3000
+2024-11-13T13:00:01.594Z info: Connecting to DB
+2024-11-13T13:00:01.595Z info: Project is running on port: 3000
+2024-11-13T13:00:09.411Z info: Connecting to DB
+2024-11-13T13:00:09.413Z info: Project is running on port: 3000
+2024-11-13T13:00:13.296Z info: Connecting to DB
+2024-11-13T13:00:13.297Z info: Project is running on port: 3000
+2024-11-13T13:00:40.619Z info: Connecting to DB
+2024-11-13T13:00:40.621Z info: Project is running on port: 3000
+2024-11-13T13:00:48.802Z info: Connecting to DB
+2024-11-13T13:00:48.804Z info: Project is running on port: 3000
+2024-11-13T13:01:00.292Z info: Connecting to DB
+2024-11-13T13:01:00.293Z info: Project is running on port: 3000
+2024-11-13T13:01:05.308Z info: Connecting to DB
+2024-11-13T13:01:05.309Z info: Project is running on port: 3000
+2024-11-13T13:01:08.585Z info: Connecting to DB
+2024-11-13T13:01:08.587Z info: Project is running on port: 3000
+2024-11-13T13:01:18.052Z info: Connecting to DB
+2024-11-13T13:01:18.053Z info: Project is running on port: 3000
+2024-11-13T13:01:26.639Z info: Connecting to DB
+2024-11-13T13:01:26.640Z info: Project is running on port: 3000
+2024-11-13T13:01:30.478Z info: Connecting to DB
+2024-11-13T13:01:30.479Z info: Project is running on port: 3000
+2024-11-13T13:01:32.893Z info: Connecting to DB
+2024-11-13T13:01:32.894Z info: Project is running on port: 3000
+2024-11-13T13:01:45.584Z info: Connecting to DB
+2024-11-13T13:01:45.585Z info: Project is running on port: 3000
+2024-11-13T13:01:48.379Z info: Connecting to DB
+2024-11-13T13:01:48.380Z info: Project is running on port: 3000
+2024-11-13T13:01:59.748Z info: Connecting to DB
+2024-11-13T13:01:59.750Z info: Project is running on port: 3000
+2024-11-13T13:02:07.024Z info: Connecting to DB
+2024-11-13T13:02:07.025Z info: Project is running on port: 3000
+2024-11-13T13:02:12.801Z info: Connecting to DB
+2024-11-13T13:02:12.802Z info: Project is running on port: 3000
+2024-11-13T13:02:18.106Z info: Connecting to DB
+2024-11-13T13:02:18.107Z info: Project is running on port: 3000
+2024-11-13T13:02:34.804Z info: Connecting to DB
+2024-11-13T13:02:34.805Z info: Project is running on port: 3000
+2024-11-13T13:02:38.117Z info: Connecting to DB
+2024-11-13T13:02:38.119Z info: Project is running on port: 3000
+2024-11-13T13:02:58.315Z info: Connecting to DB
+2024-11-13T13:02:58.316Z info: Project is running on port: 3000
+2024-11-13T13:03:01.756Z info: Connecting to DB
+2024-11-13T13:03:01.757Z info: Project is running on port: 3000
+2024-11-13T13:03:12.327Z info: Connecting to DB
+2024-11-13T13:03:12.329Z info: Project is running on port: 3000
+2024-11-13T13:03:19.289Z info: Connecting to DB
+2024-11-13T13:03:19.291Z info: Project is running on port: 3000
+2024-11-13T13:03:20.931Z info: Connecting to DB
+2024-11-13T13:03:20.932Z info: Project is running on port: 3000
+2024-11-13T13:03:23.214Z info: Connecting to DB
+2024-11-13T13:03:23.215Z info: Project is running on port: 3000
+2024-11-13T13:03:25.581Z info: Connecting to DB
+2024-11-13T13:03:25.582Z info: Project is running on port: 3000
+2024-11-13T13:03:27.282Z info: Connecting to DB
+2024-11-13T13:03:27.283Z info: Project is running on port: 3000
+2024-11-13T13:03:28.989Z info: Connecting to DB
+2024-11-13T13:03:28.991Z info: Project is running on port: 3000
+2024-11-13T13:03:52.686Z info: Connecting to DB
+2024-11-13T13:03:52.687Z info: Project is running on port: 3000
+2024-11-13T13:03:57.268Z info: Connecting to DB
+2024-11-13T13:03:57.269Z info: Project is running on port: 3000
+2024-11-13T13:04:01.442Z info: Connecting to DB
+2024-11-13T13:04:01.443Z info: Project is running on port: 3000
+2024-11-13T13:04:07.212Z info: Connecting to DB
+2024-11-13T13:04:07.213Z info: Project is running on port: 3000
+2024-11-13T13:04:11.657Z info: Connecting to DB
+2024-11-13T13:04:11.658Z info: Project is running on port: 3000
+2024-11-13T13:04:22.437Z info: Connecting to DB
+2024-11-13T13:04:22.438Z info: Project is running on port: 3000
+2024-11-13T13:04:34.722Z info: Connecting to DB
+2024-11-13T13:04:34.724Z info: Project is running on port: 3000
+2024-11-13T13:04:37.960Z info: Connecting to DB
+2024-11-13T13:04:37.961Z info: Project is running on port: 3000
+2024-11-13T13:04:40.475Z info: Connecting to DB
+2024-11-13T13:04:40.480Z info: Project is running on port: 3000
+2024-11-13T13:04:48.090Z info: Connecting to DB
+2024-11-13T13:04:48.092Z info: Project is running on port: 3000
+2024-11-13T13:04:50.204Z info: Connecting to DB
+2024-11-13T13:04:50.205Z info: Project is running on port: 3000
+2024-11-13T13:04:52.311Z info: Connecting to DB
+2024-11-13T13:04:52.312Z info: Project is running on port: 3000
+2024-11-13T13:04:55.604Z info: Connecting to DB
+2024-11-13T13:04:55.605Z info: Project is running on port: 3000
+2024-11-13T13:05:01.479Z info: Connecting to DB
+2024-11-13T13:05:01.480Z info: Project is running on port: 3000
+2024-11-13T13:05:04.303Z info: Connecting to DB
+2024-11-13T13:05:04.304Z info: Project is running on port: 3000
+2024-11-13T13:05:05.571Z info: Connecting to DB
+2024-11-13T13:05:05.572Z info: Project is running on port: 3000
+2024-11-13T13:05:11.300Z info: Connecting to DB
+2024-11-13T13:05:11.302Z info: Project is running on port: 3000
+2024-11-13T13:05:13.296Z info: Connecting to DB
+2024-11-13T13:05:13.297Z info: Project is running on port: 3000
+2024-11-13T13:05:16.910Z info: Connecting to DB
+2024-11-13T13:05:16.912Z info: Project is running on port: 3000
+2024-11-13T13:05:18.884Z info: Connecting to DB
+2024-11-13T13:05:18.885Z info: Project is running on port: 3000
+2024-11-13T13:05:29.217Z info: Connecting to DB
+2024-11-13T13:05:29.218Z info: Project is running on port: 3000
+2024-11-13T13:05:31.150Z info: Connecting to DB
+2024-11-13T13:05:31.151Z info: Project is running on port: 3000
+2024-11-13T13:05:33.292Z info: Connecting to DB
+2024-11-13T13:05:33.293Z info: Project is running on port: 3000
+2024-11-13T13:05:35.187Z info: Connecting to DB
+2024-11-13T13:05:35.188Z info: Project is running on port: 3000
+2024-11-13T13:05:42.826Z info: Connecting to DB
+2024-11-13T13:05:42.828Z info: Project is running on port: 3000
+2024-11-13T13:05:50.323Z info: Connecting to DB
+2024-11-13T13:05:50.324Z info: Project is running on port: 3000
+2024-11-13T13:05:51.340Z info: Connecting to DB
+2024-11-13T13:05:51.343Z info: Project is running on port: 3000
+2024-11-13T13:05:53.572Z info: Connecting to DB
+2024-11-13T13:05:53.575Z info: Project is running on port: 3000
+2024-11-13T13:05:55.664Z info: Connecting to DB
+2024-11-13T13:05:55.665Z info: Project is running on port: 3000
+2024-11-13T13:05:57.385Z info: Connecting to DB
+2024-11-13T13:05:57.386Z info: Project is running on port: 3000
+2024-11-13T13:05:59.848Z info: Connecting to DB
+2024-11-13T13:05:59.849Z info: Project is running on port: 3000
+2024-11-13T13:06:02.438Z info: Connecting to DB
+2024-11-13T13:06:02.439Z info: Project is running on port: 3000
+2024-11-13T13:06:16.853Z info: Connecting to DB
+2024-11-13T13:06:16.855Z info: Project is running on port: 3000
+2024-11-13T13:06:19.917Z info: Connecting to DB
+2024-11-13T13:06:19.918Z info: Project is running on port: 3000
+2024-11-13T13:06:29.637Z info: Connecting to DB
+2024-11-13T13:06:29.638Z info: Project is running on port: 3000
+2024-11-13T13:06:42.882Z info: Connecting to DB
+2024-11-13T13:06:42.883Z info: Project is running on port: 3000
+2024-11-13T13:06:52.483Z info: Connecting to DB
+2024-11-13T13:06:52.484Z info: Project is running on port: 3000
+2024-11-13T13:06:54.928Z info: Connecting to DB
+2024-11-13T13:06:54.929Z info: Project is running on port: 3000
+2024-11-13T13:06:57.957Z info: Connecting to DB
+2024-11-13T13:06:57.958Z info: Project is running on port: 3000
+2024-11-13T13:07:01.581Z info: Connecting to DB
+2024-11-13T13:07:01.582Z info: Project is running on port: 3000
+2024-11-13T13:07:04.018Z info: Connecting to DB
+2024-11-13T13:07:04.019Z info: Project is running on port: 3000
+2024-11-13T13:07:08.550Z info: Connecting to DB
+2024-11-13T13:07:08.551Z info: Project is running on port: 3000
+2024-11-13T13:07:12.512Z info: Connecting to DB
+2024-11-13T13:07:12.513Z info: Project is running on port: 3000
+2024-11-13T13:07:13.552Z info: Connecting to DB
+2024-11-13T13:07:13.553Z info: Project is running on port: 3000
+2024-11-13T13:07:16.851Z info: Connecting to DB
+2024-11-13T13:07:16.854Z info: Project is running on port: 3000
+2024-11-13T13:07:23.832Z info: Connecting to DB
+2024-11-13T13:07:23.833Z info: Project is running on port: 3000
+2024-11-13T13:07:45.606Z info: Connecting to DB
+2024-11-13T13:07:45.607Z info: Project is running on port: 3000
+2024-11-13T13:07:48.842Z info: Connecting to DB
+2024-11-13T13:07:48.844Z info: Project is running on port: 3000
+2024-11-13T13:07:50.587Z info: Connecting to DB
+2024-11-13T13:07:50.588Z info: Project is running on port: 3000
+2024-11-13T13:07:54.525Z info: Connecting to DB
+2024-11-13T13:07:54.526Z info: Project is running on port: 3000
+2024-11-13T13:07:56.075Z info: Connecting to DB
+2024-11-13T13:07:56.076Z info: Project is running on port: 3000
+2024-11-13T13:08:01.093Z info: Connecting to DB
+2024-11-13T13:08:01.094Z info: Project is running on port: 3000
+2024-11-13T13:12:43.938Z info: Connecting to DB
+2024-11-13T13:12:43.939Z info: Project is running on port: 3000
+2024-11-13T13:12:59.793Z info: Connecting to DB
+2024-11-13T13:12:59.794Z info: Project is running on port: 3000
+2024-11-13T13:13:04.220Z info: Connecting to DB
+2024-11-13T13:13:04.221Z info: Project is running on port: 3000
+2024-11-13T13:13:08.509Z info: Connecting to DB
+2024-11-13T13:13:08.510Z info: Project is running on port: 3000
+2024-11-13T13:13:11.402Z info: Connecting to DB
+2024-11-13T13:13:11.403Z info: Project is running on port: 3000
+2024-11-13T13:13:15.529Z info: Connecting to DB
+2024-11-13T13:13:15.531Z info: Project is running on port: 3000
+2024-11-13T13:13:24.789Z info: Connecting to DB
+2024-11-13T13:13:24.791Z info: Project is running on port: 3000
+2024-11-13T13:13:42.884Z info: Connecting to DB
+2024-11-13T13:13:42.885Z info: Project is running on port: 3000
+2024-11-13T13:14:05.191Z info: Connecting to DB
+2024-11-13T13:14:05.192Z info: Project is running on port: 3000
+2024-11-13T13:14:11.143Z info: Connecting to DB
+2024-11-13T13:14:11.144Z info: Project is running on port: 3000
+2024-11-13T13:14:21.876Z info: Connecting to DB
+2024-11-13T13:14:21.877Z info: Project is running on port: 3000
+2024-11-13T13:14:34.406Z info: Connecting to DB
+2024-11-13T13:14:34.407Z info: Project is running on port: 3000
+2024-11-13T13:14:37.102Z info: Connecting to DB
+2024-11-13T13:14:37.103Z info: Project is running on port: 3000
+2024-11-13T13:14:40.545Z info: Connecting to DB
+2024-11-13T13:14:40.546Z info: Project is running on port: 3000
+2024-11-13T13:14:45.483Z info: Connecting to DB
+2024-11-13T13:14:45.485Z info: Project is running on port: 3000
+2024-11-13T13:14:48.098Z info: Connecting to DB
+2024-11-13T13:14:48.099Z info: Project is running on port: 3000
+2024-11-13T13:14:54.838Z info: Connecting to DB
+2024-11-13T13:14:54.839Z info: Project is running on port: 3000
+2024-11-13T13:14:58.494Z info: Connecting to DB
+2024-11-13T13:14:58.495Z info: Project is running on port: 3000
+2024-11-13T13:15:00.416Z info: Connecting to DB
+2024-11-13T13:15:00.417Z info: Project is running on port: 3000
+2024-11-13T13:16:41.624Z info: Connecting to DB
+2024-11-13T13:16:41.625Z info: Project is running on port: 3000
+2024-11-13T13:16:43.425Z info: Connecting to DB
+2024-11-13T13:16:43.426Z info: Project is running on port: 3000
+2024-11-13T13:16:45.776Z info: Connecting to DB
+2024-11-13T13:16:45.777Z info: Project is running on port: 3000
+2024-11-13T13:16:57.046Z info: Connecting to DB
+2024-11-13T13:16:57.047Z info: Project is running on port: 3000
