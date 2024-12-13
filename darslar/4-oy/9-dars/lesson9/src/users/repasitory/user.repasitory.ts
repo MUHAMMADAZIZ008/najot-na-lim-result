@@ -4,7 +4,7 @@ import { UpdateUserDto } from '../dto/update-user.dto';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 import { User } from '../entities/user.entity';
-import { AlreadyExsist, UserNotFound } from 'src/exception/exception';
+import { AlreadyExsist } from 'src/exception/exception';
 
 @Injectable()
 export class UsersRopsitory {
