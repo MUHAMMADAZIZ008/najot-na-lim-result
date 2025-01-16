@@ -13,6 +13,8 @@ export class TodosGateway {
 
   @SubscribeMessage('createTodo')
   create(@MessageBody() createTodoDto: CreateTodoDto) {
+    console.log({ createTodoDto, message: 'salom' });
+
     return this.todosService.create(createTodoDto);
   }
 
