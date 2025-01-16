@@ -1,0 +1,20 @@
+#node image version
+FROM node:22-alpine
+
+#create folder in docker
+WORKDIR /app
+
+
+COPY package*.json ./
+
+# install all pakage
+RUN npm i
+
+# copy all file without packege
+COPY . .
+
+#create inside port
+EXPOSE 3000
+
+#command app is runed
+CMD [ "npm", "start" ]

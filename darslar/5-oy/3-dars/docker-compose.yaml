@@ -1,0 +1,22 @@
+services:
+  super-app:
+    build: .
+    ports:
+      - '5000:3000'
+    env_file:
+      - .env
+    depends_on:
+      - super-db
+    networks:
+      - super-net
+  super-db:
+    image: postgres
+    ports:
+      - '4563:5432'
+    environment:
+      - POSTGRES_PASSWORD=3636
+    networks:
+      - super-net
+networks:
+  super-net:
+    driver: bridge
